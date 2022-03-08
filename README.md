@@ -2,9 +2,8 @@
 
 Simple and easy to use Chat App, developed in React with [Scaledrone API](https://www.scaledrone.com/).\
 App uses [Redux](https://redux.js.org/) for centralized component state management and [Material UI](https://mui.com/) components.\
-Users connect by first entering Name/Nickname and picking one of the six available avatars and background colors.\
-After connecting user can see other online users, type new message and send with press of the "enter" button or simply by clicking "send" button on UI. After chatting with friends, user can simply logout via button.
-Check live preview [click here](https://btopolnjak.github.io/react-day-planner-app/) and happy chatting!
+Users connect by first entering Name/Nickname and picking one of the six available avatars and background colors. After connecting user can see other online users, type new message and send with press of the "enter" button or simply by clicking "send" button on UI. After chatting with friends, user can simply logout via button.
+Check live preview [click here](https://btopolnjak.github.io/algebra-chat-app/) and happy chatting!
 
 ![](./public/screenshot.png)
 
